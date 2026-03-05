@@ -1,79 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20👋&animation=fadeIn&type=waving&color=gradient&height=100&fontSize=40&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Ruvinda%20Manoshitha&fontSize=55&color=0:0D1117,100:1a1b27&stroke=00D9FF&strokeWidth=2&fontColor=00D9FF&animation=fadeIn&fontAlignY=55&desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20React%20Expert&descSize=17&descAlignY=75&descColor=a0aec0"/>
 </div>
 
 <div align="center">
-  
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Ruvinda Manoshitha
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8E%A8;React+Expert+%E2%9A%9B%EF%B8%8F;Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%AF;Building+Amazing+Web+Experiences+%E2%9C%A8" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&height=55&lines=Frontend+Developer+%F0%9F%8E%A8;React+%26+Next.js+Expert+%E2%9A%9B%EF%B8%8F;Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%AF;Building+Amazing+Web+Experiences+%E2%9C%A8;TypeScript+%7C+Java+%7C+Spring+Boot+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
+<br/>
+
 <div align="center">
-  
-### 🌟 Crafting Digital Experiences That Make a Difference 🌟
+  <a href="https://github.com/Ruvi7599">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ruvindamanoshitha">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ruvindamanoshitha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://ruvindamanoshitha.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-FF5722?style=for-the-badge"/>
+  </a>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br/>
 
-<!-- Social Media Links with Animated Icons -->
-<p>
-<a href="https://github.com/Ruvi7599"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=black"/></a>
-<a href="https://www.linkedin.com/in/ruvindamanoshitha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ruvindamanoshitha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</p>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ruvi7599&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/Ruvi7599?style=for-the-badge&logo=github&label=Followers&color=181717"/>
 </div>
 
 ---
 
----
+## 🧑‍💻 About Me
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> About Me
-
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```yaml
 name: Ruvinda Manoshitha
-located_in: Colombo, Sri Lanka 🇱🇰
-current_job: Frontend Developer Intern
+location: Colombo, Sri Lanka 🇱🇰
+role: Frontend Developer Intern
 company: Unified Mentor Private Limited
-education: Bachelor of IT (BIT) - University of Moratuwa
-experience: 
+education: BIT — University of Moratuwa
+
+experience:
   - Software Engineer Intern @ Capital Maharaja Group
   - React + Spring Boot Development
-  
-fields_of_interests:
-  - Frontend Development
-  - UI/UX Design
-  - Full Stack Development
-  - Mobile App Development
-  
-currently_learning: 
-  - Next.js & TypeScript
-  - Cloud Technologies
-  - Advanced React Patterns
-  
-hobbies:
-  - Problem Solving
-  - Open Source Contributing  
-  - Learning New Technologies
+
+focus:
+  - Frontend Development & UI/UX Design
+  - Full Stack & Mobile App Development
+
+learning:
+  - Next.js · TypeScript · Cloud Technologies
+  - Advanced React Patterns · System Design
+
+open_for:
+  - Open Source Collaboration
+  - Frontend / Full-Stack Opportunities
+  - Freelance Projects
+
+portfolio: https://ruvindamanoshitha.vercel.app/
+motto: "Code with passion, build with purpose! 🚀"
 ```
 
 <br clear="both"/>
 
 ---
 
-
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Lightning" width="30" /> Tech Stack & Tools
+## 🚀 Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-
-### 🌐 Frontend Technologies
+### 🌐 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap&theme=dark" />
 </p>
@@ -88,7 +87,7 @@ hobbies:
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,aws,vercel,netlify&theme=dark" />
 </p>
 
-### 🛠️ Development Tools
+### 🛠️ Dev Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,androidstudio&theme=dark" />
 </p>
@@ -97,110 +96,233 @@ hobbies:
 
 ---
 
-
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Stats" width="30" /> GitHub Analytics & Activity
+## 📊 GitHub Stats
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ruvi7599&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ruvi7599&theme=tokyonight&hide_border=true" />
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ruvi7599&bg_color=1a1b27&color=628fdb&line=628fdb&point=19d3da&area=true&hide_border=true" />
-
-<!-- Most Used Languages -->
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruvi7599&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- Stats Card - uses WakaTime-free fallback with reliable cache -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ruvi7599&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruvi7599&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="36%"/>
 
 </div>
 
 ---
 
-## Let's Connect & Collaborate!
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruvi7599/Ruvi7599/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ruvi7599/Ruvi7599/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ruvi7599/Ruvi7599/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+> 💡 **To enable the snake animation:** Add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
+> 
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: Ruvi7599
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3.1.0
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+## 📅 Contribution History (2023 → 2026)
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="150">
+### 2025 — 2026
+<img src="https://ghchart.rshah.org/00D9FF/Ruvi7599" alt="2025-2026 Contribution Chart" width="100%"/>
 
-### 📬 Reach Out to Me
-
-<p>
-<a href="https://github.com/Ruvi7599">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20"/>
-</a>
-<a href="https://www.linkedin.com/in/ruvindamanoshitha">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/>
-</a>
-<a href="mailto:ruvindamanoshitha@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=20"/>
-</a>
-</p>
-
-### 💝 Support My Work
-
-<p>
-<a href="#">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white"/>
-</a>
-</p>
-
-### 🎯 Currently Open For
-
-- 🤝 Collaborating on **Open Source Projects**
-- 💼 **Frontend/Full-Stack Opportunities**  
-- 🎓 **Mentoring** new developers
-- 🚀 **Freelance Projects**
+### Full History Heatmap
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruvi7599&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=ffffff&area_color=0d1117&area=true&hide_border=true&custom_title=Ruvinda%27s%20Contribution%20Graph%202023-2026&from=2023-01-01" width="100%"/>
 
 </div>
 
 ---
 
+## 🎯 Current Focus
+
 <div align="center">
-
-### 🎯 Current Focus & Goals
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40">
 
 ```javascript
 const ruvinda = {
-    currentFocus: ["Next.js", "TypeScript", "System Design"],
-    goals2024: [
-        "Contribute to 50+ open source projects",
-        "Launch 3 production-ready applications", 
-        "Master cloud architecture patterns",
-        "Build a tech community in Sri Lanka"
-    ],
-    motto: "Code with passion, build with purpose! 🚀"
+  name: "Ruvinda Manoshitha",
+  location: "Colombo, Sri Lanka 🇱🇰",
+  portfolio: "https://ruvindamanoshitha.vercel.app/",
+
+  currentStack: {
+    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend:   ["Spring Boot", "Node.js", "FastAPI"],
+    databases: ["MySQL", "MongoDB", "Firebase"],
+    tools:     ["Docker", "Git", "Figma", "Postman"],
+  },
+
+  goals2026: [
+    "✅ Launch portfolio v2 with Next.js 14",
+    "🔄 Contribute to 50+ open source projects",
+    "🔄 Master cloud architecture on AWS",
+    "🔄 Build a dev community in Sri Lanka 🇱🇰",
+    "🔄 Ship 3 production-ready applications",
+  ],
+
+  currentlyLearning: ["System Design", "AWS Cloud", "Advanced TypeScript"],
+  openFor: ["Full-Stack Roles", "Freelance", "Open Source", "Mentoring"],
+  motto: "Code with passion, build with purpose! 🚀",
 };
 ```
 
-### 💭 Latest Thoughts
-
-> *"The best code is not just functional, but tells a story that future developers can understand and build upon."*
-
-### 🏆 Recent Achievements
-
-🎉 **Frontend Developer Intern** @ Unified Mentor Private Limited  
-🎯 **50+ GitHub Contributions** this month  
-⭐ **Multiple 5-star project reviews**  
-🌟 **Growing developer network** in Sri Lanka  
+</div>
 
 ---
 
-### 📊 Profile Views & Visitors
+## ⚡ Fun Facts & Random Dev Quote
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ruvi7599&color=brightgreen&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/Ruvi7599?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Ruvi7599?style=social)
+<div align="center">
 
-### ✨ Fun Fact
-*When I'm not coding, you can find me exploring new tech trends, contributing to open source, or planning the next big project! 🌟*
-
-**Thanks for visiting! Don't forget to ⭐ star some repositories if you find them interesting!**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 
 </div>
+
+<div align="center">
+
+| 🔥 Fact | Details |
+|--------|---------|
+| 🌏 Location | Colombo, Sri Lanka |
+| 🎓 Degree | BIT @ University of Moratuwa |
+| 💼 Current Role | Frontend Developer Intern |
+| 🛠️ Fav Stack | React + TypeScript + Spring Boot |
+| 🎯 2026 Goal | Ship 3 production apps |
+| ☕ Runs on | Tea & Clean Code |
+| 🌐 Portfolio | [ruvindamanoshitha.vercel.app](https://ruvindamanoshitha.vercel.app/) |
+
+</div>
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120"/>
+
+<br/><br/>
+
+<a href="https://ruvindamanoshitha.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-ruvindamanoshitha.vercel.app-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Ruvi7599">
+  <img src="https://img.shields.io/badge/GitHub-Ruvi7599-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ruvindamanoshitha">
+  <img src="https://img.shields.io/badge/LinkedIn-ruvindamanoshitha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ruvindamanoshitha@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ruvindamanoshitha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 🎯 Currently Open For
+
+| 🤝 Open Source | 💼 Full-Stack Roles | 🚀 Freelance | 🎓 Mentoring |
+|:---:|:---:|:---:|:---:|
+| Collaborating | Frontend / Backend | Web Projects | New Devs |
+
+<br/>
+
+> *"The best code is not just functional — it tells a story that future developers can understand and build upon."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
+
+</div>
+
+<!-- ============================================================ -->
+<!--              HIDDEN METADATA & SEO SECTION                   -->
+<!-- ============================================================ -->
+
+<!--
+████████████████████████████████████████████████████████████████
+█                                                              █
+█   Built with ❤️  by Ruvinda Manoshitha                       █
+█   Portfolio  : https://ruvindamanoshitha.vercel.app/         █
+█   GitHub     : https://github.com/Ruvi7599                   █
+█   LinkedIn   : linkedin.com/in/ruvindamanoshitha             █
+█   Email      : ruvindamanoshitha@gmail.com                   █
+█                                                              █
+█   Stack  : React · Next.js · TypeScript · Spring Boot        █
+█   Status : Open to Opportunities 🟢                          █
+█                                                              █
+████████████████████████████████████████████████████████████████
+-->
+
+<!--
+  Keywords for discoverability:
+  Sri Lanka Developer | React Developer | Next.js | TypeScript |
+  Spring Boot | Full Stack | Frontend Engineer | Colombo |
+  University of Moratuwa | BIT | Open Source | UI/UX |
+  Freelance Developer | JavaScript | Node.js | Java Developer
+-->
+
+<!-- Last updated: 2026 | README version: 3.0 -->
+
+<!-- ============================================================ -->
+<!--                  GITHUB ACTIONS SETUP GUIDE                  -->
+<!-- ============================================================ -->
+<!--
+
+To enable ALL dynamic features in this README, create these
+GitHub Actions in your Ruvi7599/Ruvi7599 profile repository:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. SNAKE ANIMATION → .github/workflows/snake.yml
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+name: Snake Animation
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Ruvi7599
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+-->
